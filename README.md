@@ -10,7 +10,7 @@ In order to solve the upon problems, people provide some solutions that is from 
   
 The easiest way is to use global function, and then the name space, the IIFE, closure also provided, at last some needs also included, such as the the module extend and the third part file denpendcy. The whole process is put in the folder of *solution process*.
 
-After analyze these upon solutions, a more common solution is introduced here, the SeaJS lib, one application of CMD - Common Module Definition idea. Although this idea is out of date in some extent, it is very useful for us to understand node.js, and also a sample of canvas animation shown how to use the SeaJS.
+After analyze these upon solutions, a more common solution is introduced in folder of *cal demo by SeaJS*, the SeaJS lib, one application of CMD - Common Module Definition idea. Although this idea is out of date in some extent, it is very useful for us to understand node.js, and also a sample of canvas animation *Crazybird* shown how to use the SeaJS.
 
 
 
